@@ -20,6 +20,14 @@
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1rhio97CGMhq9xvoXZJAp88HLMmLWJHsi/view?usp=sharing](https://drive.google.com/file/d/1rhio97CGMhq9xvoXZJAp88HLMmLWJHsi/view?usp=sharing)**
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/csagnik1302/csagnik1302/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/csagnik1302/csagnik1302/output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/csagnik1302/csagnik1302/output/pacman-contribution-graph.svg" />
+</picture>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/csagnik1302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="csagnik1302" height="30" width="40" /></a>
