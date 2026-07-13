@@ -10,12 +10,6 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="./profile/top-langs.svg" height="175" alt="Most used languages across Sagnik Chandra's public repositories" />
-</div>
-
-###
-
 <div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=anaconda" height="30" alt="Anaconda" />
   <img width="12" />
