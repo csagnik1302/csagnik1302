@@ -21,7 +21,7 @@
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1rhio97CGMhq9xvoXZJAp88HLMmLWJHsi/view?usp=sharing](https://drive.google.com/file/d/1rhio97CGMhq9xvoXZJAp88HLMmLWJHsi/view?usp=sharing)**
 
 
-![pacman contribution graph](https://raw.githubusercontent.com/csagnik1302/csagnik1302/output/pacman-contribution-graph.svg)
+![pacman contribution graph](https://raw.githubusercontent.com/csagnik1302/csagnik1302/output/pacman-contribution-graph-dark.svg)
 
 
 <h3 align="left">Connect with me:</h3>
