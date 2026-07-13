@@ -1,4 +1,4 @@
-name: Update profile cards
+name: Update profile assets
 
 on:
   push:
@@ -17,26 +17,26 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate statistics card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=dracula&hide_border=false
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=dracula&hide_border=false
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&size_weight=1&count_weight=0&theme=dracula&hide_border=false
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit cards
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg
+
+      - name: Commit profile assets
         run: |
+          mkdir -p profile
+          mv dist/snake.svg profile/snake.svg
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "Update profile cards" || exit 0
+          git commit -m "Update profile assets" || exit 0
           git push

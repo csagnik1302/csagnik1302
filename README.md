@@ -11,8 +11,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="./profile/stats.svg" height="175" alt="Sagnik Chandra's GitHub statistics" />
-  <img src="./profile/top-langs.svg" height="175" alt="Sagnik Chandra's top languages" />
+  <img src="./profile/top-langs.svg" height="175" alt="Most used languages across Sagnik Chandra's public repositories" />
 </div>
 
 ###
@@ -72,4 +71,4 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/csagnik1302/csagnik1302/snake/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+<img data-importer="snake" src="./profile/snake.svg" alt="GitHub contribution snake animation" />
