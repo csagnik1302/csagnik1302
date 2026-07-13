@@ -11,8 +11,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=csagnik1302&amp;show_icons=true&amp;locale=en&amp;theme=dracula&amp;hide_border=false" height="150" alt="Sagnik Chandra's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csagnik1302&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=dracula&amp;hide_border=false" height="150" alt="Sagnik Chandra's top languages" />
+  <img src="https://raw.githubusercontent.com/csagnik1302/csagnik1302/output/github-metrics.svg" height="175" alt="Sagnik Chandra's GitHub statistics" />
+  <img src="https://raw.githubusercontent.com/csagnik1302/csagnik1302/output/github-languages.svg" height="175" alt="Sagnik Chandra's top languages" />
 </div>
 
 ###
@@ -50,7 +50,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sklearn" height="30" alt="scikit-learn" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&amp;logo=python&amp;logoColor=white" height="30" alt="Seaborn" />
+  <img src="https://cdn.simpleicons.org/seaborn/4C72B0" height="30" alt="Seaborn" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="TensorFlow" />
 </div>
@@ -74,4 +74,4 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/csagnik1302/csagnik1302/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/csagnik1302/csagnik1302/snake/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
