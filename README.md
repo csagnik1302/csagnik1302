@@ -11,8 +11,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/csagnik1302/csagnik1302/output/github-metrics.svg" height="175" alt="Sagnik Chandra's GitHub statistics" />
-  <img src="https://raw.githubusercontent.com/csagnik1302/csagnik1302/output/github-languages.svg" height="175" alt="Sagnik Chandra's top languages" />
+  <img src="./profile/stats.svg" height="175" alt="Sagnik Chandra's GitHub statistics" />
+  <img src="./profile/top-langs.svg" height="175" alt="Sagnik Chandra's top languages" />
 </div>
 
 ###
@@ -49,8 +49,6 @@
   <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="PyTorch" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sklearn" height="30" alt="scikit-learn" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/seaborn/4C72B0" height="30" alt="Seaborn" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="TensorFlow" />
 </div>
