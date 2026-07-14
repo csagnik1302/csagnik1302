@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/csagnik1302/csagnik1302/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph" />
 </p>
 
-- 🔭 **Currently working on:** a research project exploring the *Lost in the Middle* phenomenon in LLM retrieval and RAG pipelines
+- 🔭 **Currently working on:** A research project exploring the *Lost in the Middle* phenomenon in LLM retrieval and RAG pipelines
 - 🌱 **Currently learning:** LangChain and SQL
 - 🤝 **Looking to collaborate on:** building and managing custom LLM pipelines
 - 💬 **Ask me about:** Machine Learning, RAG pipelines, Data Mining
