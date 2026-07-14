@@ -12,12 +12,6 @@
 
 - 📫 How to reach me **sagnikchandra@gmail.com**
 
-- ⚡ Fun fact **I spend more time defeating your Python environments than training my AI models.**
-
-- 👨‍💻 All of my projects are available at **[https://csagnik1302.github.io/#top](https://csagnik1302.github.io/#top)**
-
-- 📝 I regularly write articles on **[https://medium.com/@sagnikchandra-65680](https://medium.com/@sagnikchandra-65680)**
-
 - **[📄 Know about my experiences](https://drive.google.com/file/d/1rhio97CGMhq9xvoXZJAp88HLMmLWJHsi/view?usp=sharing)**
 
 
