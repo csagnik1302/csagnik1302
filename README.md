@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sagnik Chandra</h1>
+<h1 align="center">Hi 👋, I'm Sagnik</h1>
 <h3 align="center">Aspiring ML Engineer | MSc Data Science & AI, RKMVERI</h3>
 
 <p align="center">
