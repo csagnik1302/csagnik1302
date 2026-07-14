@@ -44,6 +44,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=csagnik1302&show_icons=true&theme=radical" alt="Sagnik's GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=csagnik1302&theme=radical" alt="Sagnik's GitHub streak" height="165"/>
 </p>
