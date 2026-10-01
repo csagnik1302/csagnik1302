@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 **Currently working on:** A research project exploring the *Lost in the Middle* phenomenon in LLM retrieval and RAG pipelines
-- 🌱 **Currently learning:** LangChain and SQL
+- 🌱 **Currently learning:** Kubernetes and SQL
 - 🤝 **Looking to collaborate on:** building and managing custom LLM pipelines
 - 💬 **Ask me about:** Machine Learning, RAG pipelines, Data Mining
 - 📫 **Reach me at:** [sagnikchandra@gmail.com](mailto:sagnikchandra@gmail.com)
